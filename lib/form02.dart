@@ -17,7 +17,7 @@ class _form02State extends State<form02> {
     return ListView(
       children: [
         //Image.network( 'https://picsum.photos/250?image=9',fit: BoxFit.fitWidth, ),
-        Image.asset('img/img04.jpg',fit: BoxFit.fitWidth,)
+        Image.asset('img/img05.jpg',fit: BoxFit.fitWidth,)
       ],
     );
   }
